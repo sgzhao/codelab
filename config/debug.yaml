@@ -1,0 +1,4 @@
+mysql:
+  host: "rm-8vbf6m93ug3gpkne51o.mysql.zhangbei.rds.aliyuncs.com"
+  user: "business"
+  password: "DLjjzx2017"
