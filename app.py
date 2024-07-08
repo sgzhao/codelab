@@ -20,7 +20,6 @@ def get_userinfo(user_id):
             data = cursor.fetchone()
     return data
 
-
 def main():
     data = get_userinfo('0000015e31919747-00163e000b170001')
     print(data)
